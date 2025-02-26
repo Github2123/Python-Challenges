@@ -1,4 +1,4 @@
-str1='   hello hi   '
+str1='hello hi   '
 str2='python'
 print(str1+" "+str2)
 #string repitation
@@ -16,7 +16,7 @@ print(str1.split(" "))
 print(str1.strip())
 print(str1.replace('hi','hai'))
 #substrings
+# test
 text='python is awesome'
 print('python' in text)
 print('java 'not in text)
-print(str1[:5])
